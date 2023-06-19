@@ -1,0 +1,190 @@
+{
+	"pages": [
+		{
+		    "path" : "pages/login/login",
+		    "style" :                                                                                    
+		    {
+		        
+		    }
+		    
+		},
+       
+        {
+            "path" : "pages/my/my",
+            "style" :                                                                                    
+            {
+                
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/index/index",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/UserChangeFile/UserChangeFile",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/post/post",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/MySend/MySend",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        
+        ,{
+            "path" : "pages/MyReceive/MyReceive",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Postman/Postman",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/CheckNodePackage/CheckNodePackage",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/PostmanAddPackage/PostmanAddPackage",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/PostmanChangeStatus/PostmanChangeStatus",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+       
+        ,{
+            "path" : "pages/NodeManager/NodeManager",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/ManagePostman/ManagePostman",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/CheckComplaint/CheckComplaint",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/CheckPostman/CheckPostman",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/AddPostman/AddPostman",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/FirePostman/FirePostman",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+		 ,{
+            "path" : "pages/Complain/Complain",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	
+
+	"tabBar": {
+		"selectedColor": "#C00000",
+		"list" :[
+			{
+				"pagePath": "pages/index/index",
+				"text": "预约",
+				"iconPath": "static/预约.png",
+				"selectedIconPath": "static/预约-active.png"
+			},
+		
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "static/我的.png",
+				"selectedIconPath": "static/我的-active.png"
+			}
+			
+		]
+	}
+}
